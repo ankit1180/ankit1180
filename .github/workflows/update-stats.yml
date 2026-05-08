@@ -1,0 +1,28 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Stats
+        run: |
+          echo "🔄 Updating stats..."
+
+          DATE=$(date)
+          sed -i "s/Last Updated:.*/Last Updated: $DATE/g" README.md || true
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Auto update stats" || echo "No changes"
+          git push
