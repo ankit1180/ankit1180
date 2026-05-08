@@ -1,8 +1,8 @@
-<!-- 🔥 PREMIUM ANIMATED BANNER -->
+<!-- PREMIUM ANIMATED BANNER -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=250&section=header&text=Solution%20Architect%20Ankit%20Panwar&fontSize=40&fontColor=00F7FF&animation=fadeIn&desc=Scalable%20AI%20Systems%20%7C%20React%20Native%20%7C%20Salesforce&descAlignY=75" />
@@ -15,6 +15,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankit1180&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+---
 
 ## About Me
 
@@ -66,6 +68,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
 
+---
+
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
@@ -73,11 +77,38 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
 
+---
+
+### AI / ML & Voice Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-Speech--to--Text-blue?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/TTS-ElevenLabs-purple?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc)
+
+---
+
+### Automation & Data
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery)
+![Redis](https://img.shields.io/badge/Redis-D92C2C?style=for-the-badge\&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq)
+
+---
+
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+---
 
 ### Cloud & DevOps
 
